@@ -1,0 +1,6 @@
+com\ludamhuy\tuan4\repository\CategoryRepository.class
+com\ludamhuy\tuan4\repository\ProductRepository.class
+com\ludamhuy\tuan4\Tuan4Application.class
+com\ludamhuy\tuan4\controller\ProductController.class
+com\ludamhuy\tuan4\entity\Product.class
+com\ludamhuy\tuan4\entity\Category.class
